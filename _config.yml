@@ -48,13 +48,13 @@ favicon_img_path: "imgs/favicon.ico"
 
 # Build settings
 markdown: kramdown
-<<<<<<< HEAD
-permalink: pretty
-=======
-theme: jekyll-theme-time-machine
-gems:
-  - jekyll-feed
-exclude:
-  - Gemfile
-  - Gemfile.lock
->>>>>>> d82ab81afc1be01183c11a5ef40351a8204eb50e
+# <<<<<<< HEAD
+# permalink: pretty
+# =======
+# theme: jekyll-theme-time-machine
+# gems:
+#   - jekyll-feed
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+# >>>>>>> d82ab81afc1be01183c11a5ef40351a8204eb50e
